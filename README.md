@@ -34,6 +34,8 @@ https://82n0gj3j74.execute-api.us-east-1.amazonaws.com/default/pizza_denue_comer
 https://82n0gj3j74.execute-api.us-east-1.amazonaws.com/pizza_distance_spot
 
 
+
+Comming soon: 
 Check the complete table on: 
 [spot2_pizza](http://spot2-denue-pizza.s3-website-us-east-1.amazonaws.com)
 

@@ -16,7 +16,7 @@ Challege spot2
 
 
 ## Architecture
-![Spot2-Page-2 drawio](https://user-images.githubusercontent.com/19912111/170401926-2ce61ea1-8433-4ac9-a139-b57d5ca1324f.png)
+![Spot2-Page-2 drawio (1)](https://user-images.githubusercontent.com/19912111/170414475-ee0a3764-ef7d-4cd9-ae1f-a3f3cbd14a2a.png)
 
 ## Requirements
 * SageMaker

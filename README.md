@@ -35,7 +35,7 @@ https://82n0gj3j74.execute-api.us-east-1.amazonaws.com/pizza_distance_spot
 
 
 Check the complete table on: 
-[spot2_pizza](http://dldvdr5sermaf.cloudfront.net/)
+[spot2_pizza](http://spot2-denue-pizza.s3-website-us-east-1.amazonaws.com)
 
 u: spot2
 p: denue

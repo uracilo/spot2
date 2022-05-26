@@ -37,8 +37,10 @@ https://82n0gj3j74.execute-api.us-east-1.amazonaws.com/pizza_distance_spot
 
 Comming soon: 
 Check the complete table on: 
+
 [spot2_pizza](https://tabledeploy.herokuapp.com/)
-https://github.com/uracilo/spot2flask
+
+[code_deploytable](https://github.com/uracilo/spot2flask)
 
   
 ## Contact Us
